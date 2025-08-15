@@ -1,6 +1,10 @@
-<img width="498" height="206" alt="image" src="https://github.com/user-attachments/assets/1885c8f8-2dda-4996-9934-d439298238d1"/>
+![Uploading Anime Aesthetic City GIF.gif…]()
+
+
+
+
 # Kushagra
-Full Stack Developer
+##Full Stack Developer
 
 ## About Me
 Results-driven software engineer with a track record of designing and delivering scalable, high-performance systems. Adept at translating complex business requirements into efficient, maintainable solutions. Experienced in backend architecture, database optimization, and cloud-native application development, with a strong emphasis on reliability, security, and performance.
