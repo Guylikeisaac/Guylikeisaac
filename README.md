@@ -1,4 +1,4 @@
-<img width="498" height="206" alt="image" src="https://github.com/user-attachments/assets/1885c8f8-2dda-4996-9934-d439298238d1" />
+<img width="498" height="206" alt="image" src="https://github.com/user-attachments/assets/1885c8f8-2dda-4996-9934-d439298238d1"/>
 # Kushagra
 Full Stack Developer
 
