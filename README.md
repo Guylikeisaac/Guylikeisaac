@@ -1,5 +1,4 @@
-<img width="498" height="206" alt="image" src="https://github.com/user-attachments/assets/1885c8f8-2dda-4996-9934-d439298238d1" />![Coding GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanime-city-gif-digital-art--580612576968515172%2F&psig=AOvVaw0RV_nzDAzQ_YmWNSdT-Uoe&ust=1755365211132000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLju65OrjY8DFQAAAAAdAAAAABAL)
-# Kushagra
+<img width="498" height="206" alt="image" src="https://github.com/user-attachments/assets/1885c8f8-2dda-4996-9934-d439298238d1" />
 Full Stack Developer
 
 ## About Me
