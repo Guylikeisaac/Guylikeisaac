@@ -1,4 +1,4 @@
-![Anime Aesthetic City](./Anime%20Aesthetic%20City%20GIF.gif)
+![Funny GIF Just For Fun](./Funny%20GIF%20Just%20For%20Fun.gif)
 
 
 # Kushagra
